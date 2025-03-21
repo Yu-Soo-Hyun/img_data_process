@@ -3,7 +3,8 @@ data/
 dataset/
 dataset_resize/
 test_dataset/
-
+*.zip
+*.pth
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
